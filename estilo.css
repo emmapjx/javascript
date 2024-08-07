@@ -4,7 +4,7 @@ body{
       background-color: pink;
       font-size: 16pt;
       text-align: center;
-      font-family: Roboto+Condensed;
+      font-family: Josefin Sans;
     }
 header{
       color: white;
@@ -12,7 +12,7 @@ header{
 }
 section{
       background-color: white;
-      width: 300px
+      width: 300px;
       margin: auto;
       border-radius: 30px;
       box-shadow: 5px 5px 5px yellow;
