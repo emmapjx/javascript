@@ -28,32 +28,3 @@ h1{
       border-radius: 10px;
   }
 
-
-h3 { 
-      position: absolute;
-      top: 50px;
-      left: 20px;
-      text-align: center;
-      font-family: Georgia;
-      color: #d5d0db;
-      position: absolute;
-      top: 50px;
-      left: 20px;
-      
-  }
-
-p{
-      text-align: left;
-      color: #d5d0db;
-      text-decortion:underline;
-}
-#menu{
-       color: #d5d0db;
-      font-size: 16pt;
-      font-family: Arial;
-}
-#link{
-       color: #d5d0db;
-      font-size: 16pt;
-      font-family: Arial;
-}
