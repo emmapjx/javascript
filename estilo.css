@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Sankofa+Display&display=swap');
 body {
-    background-color: pink;
+    background-color: #5C4033;
     font-size: 16pt;
     text-align: center;
     font-family: 'Sankofa Display';
@@ -8,18 +8,20 @@ body {
 
 header {
     color: white;
-    text-shadow: 5px 5px 3px yellow;
+    text-shadow: 2px 2px 3px #EBC79E;
 }
 
 section {
-    background-color: white;
+    background-color: #97694F;
     width: 300px;
     margin: auto;
     border-radius: 30px;
-    box-shadow: 5px 5px 5px yellow;
+    box-shadow: 5px 5px 5px #EBC79E;
 }
 
 footer {
     color: white;
-    text-shadow: 5px 5px 3px yellow;
+    text-shadow: 2px 2px 3px #EBC79E;
 }
+
+
