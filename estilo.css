@@ -18,6 +18,10 @@ section {
     border-radius: 30px;
     box-shadow: 5px 5px 5px #EBC79E;
 }
+img {
+    border-radius: 50%;
+    width: 200;
+}
 
 footer {
     color: white;
