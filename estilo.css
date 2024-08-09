@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Sankofa+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
 body {
     background-color: #5C4033;
     font-size: 16pt;
     text-align: center;
-    font-family: 'Sankofa Display';
+    font-family: 'Play';
 }
 
 header {
