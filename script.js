@@ -7,7 +7,7 @@ var hora data.getHours()
    if (hora >=0 && hora < 12) {
       img.src = 'manhã.jpg'
 
-} else if(hora >=12 && hora <18) {
+} else if(hora >=11 && hora <18) {
 img.src = 'tarde.jpg'
 
 } else {
