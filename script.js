@@ -5,12 +5,12 @@ var data = new Date()
 var hora data.getHours()
    msg.innerHTML = `Agora sao ${hora} horas.`
    if (hora >=0 && hora < 12) {
-      img.src = 'manha.jpeg'
+      img.src = 'manhã.jpg'
 
 } else if(hora >=12 && hora <18) {
-img.src = 'tarde.jpeg'
+img.src = 'tarde.jpg'
 
 } else {
-img.src = 'noite.jpeg'
+img.src = 'noite.jpg'
 
 }
